@@ -1,0 +1,6 @@
+{
+  "name": "ProblemForge",
+  "description": "AI-assisted entrepreneurial opportunity discovery and validation platform for founders, students, and hackathon teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
